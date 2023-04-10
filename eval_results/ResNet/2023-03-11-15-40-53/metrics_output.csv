@@ -1,0 +1,16 @@
+Classes,Precision,Recall,F1 Score,Average Precision
+daisy,61.49,72.22,66.42,70.93
+dandelion,71.72,79.33,75.33,85.40
+roses,67.59,57.03,61.86,72.46
+sunflowers,73.88,71.22,72.53,81.70
+tulips,77.62,69.81,73.51,83.01
+
+Top-1 Acc,Top-5 Acc,Mean Precision,Mean Recall,Mean F1 Score
+70.59,100.00,70.46,69.92,69.93
+
+ ,daisy,dandelion,roses,sunflowers,tulips
+daisy,91,15,10,6,4
+dandelion,18,142,5,10,4
+roses,16,10,73,9,20
+sunflowers,9,22,5,99,4
+tulips,14,9,15,10,111
